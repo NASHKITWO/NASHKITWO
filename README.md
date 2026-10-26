@@ -129,20 +129,6 @@ Another project in my portfolio, built with Dart.
 
 ---
 
-## ⚽ Football Corner
-
-<div align="center">
-
-<img src="./messi.jpg" width="350" alt="Lionel Messi">
-
-<br>
-
-*Great players inspire greatness. Keep chasing your goals.*
-
-</div>
-
----
-
 ## 🌌 Beyond the Horizon
 
 <div align="center">
