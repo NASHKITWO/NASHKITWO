@@ -1,6 +1,6 @@
 # 🎮 Hey, I'm NASHKITWO!
 
-![Gaming Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:12372a,100:00b894&height=180&section=header&text=NASHKITWO&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CODE%20%7C%20GAMES%20%7C%20FOOTBALL&descAlignY=60&descSize=15)
+![Dark Ocean Cliff Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,65:164e63,100:020617&height=240&section=header&text=NASHKITWO&fontSize=52&fontColor=e0f2fe&animation=fadeIn&fontAlignY=38&desc=CODE%20%7C%20GAMES%20%7C%20BEYOND%20THE%20HORIZON&descAlignY=58&descSize=14)
 
 I'm **Muhammad Ikhsan**, also known as **NASHKITWO**.
 
@@ -65,4 +65,4 @@ Check out my repositories for more projects.
 
 Thanks for stopping by! Leave a ⭐ on a project if you like it.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:12372a,100:00b894&height=100&section=footer)
+![Dark Ocean Cliff Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,65:164e63,100:020617&height=150&section=footer&animation=fadeIn)
