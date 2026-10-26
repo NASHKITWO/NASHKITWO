@@ -1,14 +1,14 @@
-<!-- ====================================================== -->
-<!--                  NASHKITWO PROFILE                     -->
-<!--                  DARK OCEAN THEME                      -->
-<!-- ====================================================== -->
+<!-- ===================================================== -->
+<!-- NASHKITWO | DEVELOPER SHOWCASE                        -->
+<!-- THEME: DARK OCEAN                                     -->
+<!-- ===================================================== -->
 
-<!-- ======================== HEADER ====================== -->
+<!-- ======================== HEADER ===================== -->
 
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:082F49,55:0891B2,80:155E75,100:020617&height=280&section=header&text=NASHKITWO&fontSize=72&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=CODE%20%7C%20GAMES%20%7C%20BEYOND%20THE%20HORIZON&descSize=17&descAlignY=55"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:075985,55:0891B2,80:155E75,100:020617&height=300&section=header&text=NASHKITWO&fontSize=72&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=CODE%20%7C%20GAMES%20%7C%20BEYOND%20THE%20HORIZON&descSize=17&descAlignY=55"
   width="100%"
   alt="NASHKITWO Dark Ocean Header"
 />
@@ -17,7 +17,7 @@
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=HELLO%2C+WORLD!+%F0%9F%91%8B;WELCOME+TO+MY+DIGITAL+OCEAN;CODE.+CREATE.+REPEAT.;STAY+CURIOUS.+KEEP+BUILDING."
-  alt="Animated NASHKITWO Introduction"
+  alt="NASHKITWO Typing Animation"
 />
 
 <br><br>
@@ -28,6 +28,7 @@
     alt="GitHub Profile"
   />
 </a>
+
 <a href="https://github.com/NASHKITWO?tab=repositories">
   <img
     src="https://img.shields.io/badge/Repositories-Explore-155E75?style=for-the-badge&logo=github&logoColor=FFFFFF"
@@ -35,7 +36,7 @@
   />
 </a>
 
-<br>
+<br><br>
 
 <img
   src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-0891B2?style=flat-square&logo=github&logoColor=white"
@@ -46,13 +47,15 @@
 
 ---
 
-<!-- ======================== ABOUT ======================== -->
+<!-- ======================== ABOUT ====================== -->
 
 ## 👨‍💻 About Me
 
 Hi! I'm **Muhammad Ikhsan**, also known as **NASHKITWO**.
 
-Welcome to my digital ocean! 🌊 I'm passionate about exploring technology, building projects, and learning new things through code.
+Welcome to my digital ocean! 🌊
+
+I'm passionate about exploring technology, building projects, and learning new things through code. I enjoy experimenting with programming languages and turning ideas into working projects.
 
 - 💻 Exploring software development and programming.
 - 🚀 Building projects and improving my coding skills.
@@ -65,38 +68,45 @@ Welcome to my digital ocean! 🌊 I'm passionate about exploring technology, bui
 
 ---
 
-<!-- ====================== TECH STACK ==================== -->
+<!-- ====================== TECH STACK =================== -->
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=php,html,css,js,java,dart&theme=dark" alt="Programming Languages"/>
-
-<br><br>
-
-### ⚙️ Frameworks & Developer Tools
-
-<img src="https://skillicons.dev/icons?i=laravel,mysql,git,github,vscode&theme=dark" alt="Frameworks and Developer Tools"/>
-
-<br><br>
+### 💻 Languages
 
 <img
-  src="https://img.shields.io/badge/Always-Curious-082F49?style=for-the-badge&logo=opensourceinitiative&logoColor=67E8F9"
-  alt="Always Curious"
+  src="https://skillicons.dev/icons?i=php,html,css,js,java,dart&theme=dark"
+  alt="PHP, HTML, CSS, JavaScript, Java, and Dart"
 />
+
+<br><br>
+
+### ⚙️ Frameworks & Tools
+
 <img
-  src="https://img.shields.io/badge/Always-Building-155E75?style=for-the-badge&logo=github&logoColor=white"
-  alt="Always Building"
+  src="https://skillicons.dev/icons?i=laravel,mysql,git,github,vscode&theme=dark"
+  alt="Laravel, MySQL, Git, GitHub, and VS Code"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/BUILD-LEARN-082F49?style=for-the-badge&logo=github&logoColor=67E8F9"
+  alt="Build and Learn"
+/>
+
+<img
+  src="https://img.shields.io/badge/KEEP-EXPLORING-155E75?style=for-the-badge&logo=opensourceinitiative&logoColor=FFFFFF"
+  alt="Keep Exploring"
 />
 
 </div>
 
 ---
 
-<!-- ===================== PROJECTS ======================== -->
+<!-- ===================== PROJECTS ====================== -->
 
 ## 🚀 Featured Projects
 
@@ -106,36 +116,36 @@ Welcome to my digital ocean! 🌊 I'm passionate about exploring technology, bui
   <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=NASHKITWO&repo=Android-Naci-Crypt&hide_border=true&bg_color=020617&title_color=67E8F9&icon_color=38BDF8&text_color=CBD5E1"
     alt="Android-Naci-Crypt Project"
-  />
+/>
 </a>
 
 <a href="https://github.com/NASHKITWO/Tertata">
   <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=NASHKITWO&repo=Tertata&hide_border=true&bg_color=020617&title_color=67E8F9&icon_color=38BDF8&text_color=CBD5E1"
     alt="Tertata Project"
-  />
+/>
 </a>
 
 </div>
 
 ### 🔐 Android-Naci-Crypt
 
-A project in my GitHub portfolio. Visit the repository to explore its source code, implementation, and features.
+A project in my GitHub portfolio. Explore the repository to learn more about its implementation and features.
 
-**Explore:** [Android-Naci-Crypt](https://github.com/NASHKITWO/Android-Naci-Crypt)
+**Repository:** [View Android-Naci-Crypt](https://github.com/NASHKITWO/Android-Naci-Crypt)
 
 ### 📦 Tertata
 
-A project built with Dart. Check out the repository to discover more about its implementation.
+A project built with Dart. Visit the repository to explore its source code and features.
 
-**Explore:** [Tertata](https://github.com/NASHKITWO/Tertata)
+**Repository:** [View Tertata](https://github.com/NASHKITWO/Tertata)
 
 <div align="center">
 
 <a href="https://github.com/NASHKITWO?tab=repositories">
   <img
-    src="https://img.shields.io/badge/VIEW-ALL%20PROJECTS-0891B2?style=for-the-badge&logo=github&logoColor=white"
-    alt="View All Projects"
+    src="https://img.shields.io/badge/EXPLORE-ALL%20PROJECTS-0891B2?style=for-the-badge&logo=github&logoColor=white"
+    alt="Explore All Projects"
   />
 </a>
 
@@ -143,7 +153,7 @@ A project built with Dart. Check out the repository to discover more about its i
 
 ---
 
-<!-- ===================== GITHUB STATS =================== -->
+<!-- ===================== GITHUB STATS ================== -->
 
 ## 📊 GitHub Analytics
 
@@ -152,9 +162,9 @@ A project built with Dart. Check out the repository to discover more about its i
 <a href="https://github.com/NASHKITWO">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=NASHKITWO&show_icons=true&hide_border=true&bg_color=020617&title_color=67E8F9&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=NASHKITWO&show_icons=true&hide_border=true&bg_color=020617&title_color=67E8F9&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github"
     alt="NASHKITWO GitHub Statistics"
-  />
+/>
 </a>
 
 <a href="https://github.com/NASHKITWO">
@@ -162,7 +172,7 @@ A project built with Dart. Check out the repository to discover more about its i
     height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NASHKITWO&layout=compact&langs_count=8&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=CBD5E1"
     alt="NASHKITWO Most Used Languages"
-  />
+/>
 </a>
 
 <br><br>
@@ -176,38 +186,60 @@ A project built with Dart. Check out the repository to discover more about its i
 
 ---
 
-<!-- ===================== TROPHIES ======================== -->
+<!-- ===================== ACHIEVEMENTS ================== -->
 
-## 🏆 GitHub Trophies
+## 🏆 Developer Milestones
 
 <div align="center">
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=NASHKITWO&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
-  alt="NASHKITWO GitHub Trophies"
+<a href="https://github.com/NASHKITWO">
+  <img
+    src="https://img.shields.io/badge/GITHUB-Developer-082F49?style=for-the-badge&logo=github&logoColor=67E8F9"
+    alt="GitHub Developer"
 />
+</a>
+
+<a href="https://github.com/NASHKITWO?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/PROJECTS-Always%20Building-155E75?style=for-the-badge&logo=github&logoColor=FFFFFF"
+    alt="Always Building Projects"
+/>
+</a>
+
+<br><br>
+
+*Every project is a new opportunity to learn, improve, and grow.*
 
 </div>
 
 ---
 
-<!-- ===================== CONTRIBUTIONS ================== -->
+<!-- ===================== ACTIVITY ====================== -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=NASHKITWO&bg_color=020617&color=67E8F9&line=0891B2&point=FFFFFF&area=true&hide_border=true"
-  width="100%"
-  alt="NASHKITWO GitHub Contribution Activity"
+<a href="https://github.com/NASHKITWO">
+  <img
+    src="https://img.shields.io/badge/GitHub-View%20My%20Activity-0891B2?style=for-the-badge&logo=github&logoColor=white"
+    alt="View GitHub Activity"
 />
+</a>
+
+<br><br>
+
+Explore my repositories, commits, and contributions directly on GitHub.
+
+<a href="https://github.com/NASHKITWO">
+  <strong>View My GitHub Activity →</strong>
+</a>
 
 </div>
 
 ---
 
-<!-- ===================== SNAKE ANIMATION ================ -->
+<!-- ===================== SNAKE ANIMATION =============== -->
 
 ## 🐍 Contribution Snake
 
@@ -216,7 +248,7 @@ A project built with Dart. Check out the repository to discover more about its i
 <img
   src="https://raw.githubusercontent.com/NASHKITWO/NASHKITWO/output/github-contribution-grid-snake-dark.svg"
   width="100%"
-  alt="NASHKITWO GitHub Contribution Snake"
+  alt="NASHKITWO Contribution Snake"
 />
 
 </div>
@@ -224,13 +256,13 @@ A project built with Dart. Check out the repository to discover more about its i
 <p align="center">
   <sub>
     The contribution snake requires a GitHub Actions workflow
-    to generate and publish its SVG to the output branch.
+    to generate the SVG and publish it to the output branch.
   </sub>
 </p>
 
 ---
 
-<!-- ===================== FOOTBALL ======================== -->
+<!-- ===================== FOOTBALL ====================== -->
 
 ## ⚽ Football Corner
 
@@ -250,22 +282,23 @@ A project built with Dart. Check out the repository to discover more about its i
 
 ---
 
-<!-- ===================== DEVELOPER QUOTE ================ -->
+<!-- ===================== DEVELOPER QUOTE =============== -->
 
 ## 💡 Developer Mindset
 
 <div align="center">
 
-<img
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
-  alt="Random Developer Quote"
-/>
+> **"First, solve the problem. Then, write the code."**
+
+<br>
+
+*Think clearly. Build consistently. Never stop learning.*
 
 </div>
 
 ---
 
-<!-- ===================== CONNECT ========================= -->
+<!-- ===================== CONNECT ======================= -->
 
 ## 🌐 Explore My GitHub
 
@@ -274,15 +307,15 @@ A project built with Dart. Check out the repository to discover more about its i
 <a href="https://github.com/NASHKITWO">
   <img
     src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-020617?style=for-the-badge&logo=github&logoColor=67E8F9"
-    alt="Visit GitHub Profile"
-  />
+    alt="Visit My GitHub Profile"
+/>
 </a>
 
 <a href="https://github.com/NASHKITWO?tab=repositories">
   <img
     src="https://img.shields.io/badge/Projects-Explore%20Repositories-155E75?style=for-the-badge&logo=github&logoColor=white"
-    alt="Explore GitHub Repositories"
-  />
+    alt="Explore Repositories"
+/>
 </a>
 
 <br><br>
@@ -293,7 +326,7 @@ A project built with Dart. Check out the repository to discover more about its i
 
 ---
 
-<!-- ======================== FOOTER ======================= -->
+<!-- ======================== FOOTER ===================== -->
 
 <div align="center">
 
@@ -303,7 +336,7 @@ A project built with Dart. Check out the repository to discover more about its i
   alt="NASHKITWO Dark Ocean Footer"
 />
 
-<h2>🌊 Beyond the Horizon</h2>
+<h2>🌊 BEYOND THE HORIZON</h2>
 
 <p>
   <strong>STAY CURIOUS. KEEP BUILDING.</strong>
