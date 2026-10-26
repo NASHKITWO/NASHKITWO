@@ -16,7 +16,7 @@
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=HELLO%2C+WORLD!+%F0%9F%91%8B;WELCOME+TO+MY+DIGITAL+OCEAN;CODE.+CREATE.+REPEAT.;STAY+CURIOUS.+KEEP+BUILDING."
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=HELLO%2C+WORLD!+%F0%9F%91%8B;WELCOME+TO+MY+DIGITAL+OCEAN;Bismillah > Praktek > Ulangi;ican3192@gmail.com"
   alt="NASHKITWO Typing Animation"
 />
 
