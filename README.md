@@ -1,5 +1,3 @@
-#  Hey, I'm Muhammad Ikhsan!
-
 ![Dark Ocean Cliff Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,65:164e63,100:020617&height=240&section=header&text=NASHKITWO&fontSize=52&fontColor=e0f2fe&animation=fadeIn&fontAlignY=38&desc=CODE%20%7C%20GAMES%20%7C%20BEYOND%20THE%20HORIZON&descAlignY=58&descSize=14)
 
 I'm **Muhammad Ikhsan**, also known as **NASHKITWO**.
