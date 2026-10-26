@@ -51,16 +51,23 @@ Check out my repositories for more projects.
 
 ---
 
-## 📈 My GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NASHKITWO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9a6&icon_color=00d9a6&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NASHKITWO&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d9a6&text_color=c9d1d9)
-
 ---
 
-### 🌱 One commit at a time.
+<h2 align="center">🌊 Beyond the Horizon</h2>
 
-Thanks for stopping by! Leave a ⭐ on a project if you like it.
+<p align="center">
+  <i>Every line of code is another step into the unknown.</i>
+</p>
 
-![Dark Ocean Cliff Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,65:164e63,100:020617&height=150&section=footer&animation=fadeIn)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NASHKITWO&show_icons=true&hide_border=true&bg_color=020617&title_color=67E8F9&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" alt="NASHKITWO GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NASHKITWO&layout=compact&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=CBD5E1" alt="NASHKITWO Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:164E63,100:020617&height=120&section=footer" width="100%" alt="Midnight ocean waves" />
+</p>
+
+<p align="center">
+  🌑 <b>Stay curious. Keep building.</b> 🌊
+</p>
